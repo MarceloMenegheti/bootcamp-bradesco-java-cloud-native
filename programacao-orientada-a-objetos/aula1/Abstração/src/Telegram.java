@@ -1,5 +1,6 @@
 
-public class MsnMessenger extends ServicoMensagemInstantanea {
+public class Telegram extends ServicoMensagemInstantanea{
+	
 	public void enviarMensagem() {
 		System.out.println("Enviando mensagem");
 	}

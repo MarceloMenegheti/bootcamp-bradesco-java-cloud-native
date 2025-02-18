@@ -1,5 +1,5 @@
 
-public class MsnMessenger extends ServicoMensagemInstantanea {
+public class FacebookMessenger extends ServicoMensagemInstantanea{
 	public void enviarMensagem() {
 		System.out.println("Enviando mensagem");
 	}
